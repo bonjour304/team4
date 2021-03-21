@@ -1,26 +1,34 @@
-eProject T1.2007.E1-eProject-Group_1 Batch no.: T1.2007.E1
+# PICNIC-GAMES-eproject
 
-CENTER NAME: ACE-HCMC-2-FPT
+eProject T1.2011.M0- eProject-Group_6 Batch no:
 
-Project title: BRIGHTWORLD
+T1.2011.M0 
 
-========> Group 1 <=========
+CENTER NAME:ACE_HCMC-2-FPT
+
+Project-title: PICNIC GAMES
+
+========> GROUP 6 <========
 
 3 collaborators:
 
-     Group members	            Name	                    Student ID
+     Group 4 members                Name	                         Student ID
 
-                                    Lê Bá Duy	                Student1270665
-                                    Lê Quốc Anh Khoa	        Student1271337 
-                                    Hồ Giang Nam	        Student1271261
+                                    Trần Công Minh (Team leader)      Student1285591
+                                    Đỗ Huy Hoàng                      Student1288223 
+                                    Huỳnh Nhật Hiếu            Student1279084
+                               
+                                    
+                                    
+ ============================
+
+eProject documentation at :
+
 ============================
 
-eProject documentation at https://github.com/ladori08/eProject1/tree/master/document
+eProject published at : 
 
 ============================
 
-eProject published at https://ladori08.github.io/eProject1/
+Thank you for spending your time to look at our work.                                   
 
-============================
-
-Thank you for spending your time to look at our work.
