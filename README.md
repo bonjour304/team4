@@ -16,7 +16,7 @@ Project-title: MARU DRY FRUITS
 
                                     Trần Công Minh (Team leader)      Student1285591
                                     Đỗ Huy Hoàng                      Student1288223 
-                                    Huỳnh Nhật Hiếu            Student1279084
+                                    Huỳnh Nhật Hiếu                   Student1279084
                                
                                     
                                     
