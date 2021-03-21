@@ -26,7 +26,7 @@ eProject documentation at :
 
 ============================
 
-eProject published at : 
+eProject published at : https://bonjour304.github.io/team4/
 
 ============================
 
