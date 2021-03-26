@@ -30,7 +30,7 @@ eProject published at : https://bonjour304.github.io/team4/
 
 ============================
 
-eProject video published at : 
+eProject video published at : https://www.youtube.com/watch?v=4CtIj5GQmfc&ab_channel=HoangDo
 
 ============================
 
