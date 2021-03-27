@@ -136,26 +136,3 @@ $(document).ready(function () {
     });
     
     
- $(".defTheme").click(function() { 
-    
-  $("#MSS").attr("href",'css/style-d.css');
-
-  });	
-  $("#resetFont").click(function() { 
-    
-  $("#MSS").attr("href",'css/style.css');
-
-  });
-    
-    
-    var text = $("body"),
-    fontSize = docCookies.getItem("FontSize");
-    if (fontSize) {
-    text.css('font-size', fontSize + 'pt !important');
-    }
-    });
-    
-    });
-
-
-      
